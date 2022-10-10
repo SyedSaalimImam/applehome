@@ -1,0 +1,372 @@
+ul{
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden;
+    margin-bottom: 0px;
+margin-top: 0px;
+}
+li{
+    float: left;
+    text-align: center;
+}
+li a{
+    font-size: 15px;
+    color: white;
+    text-decoration-line: none;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 8px;
+}
+li a:hover{
+    color: gray;
+    text-decoration: wavy;
+}
+
+.img1{
+    position: relative;
+}
+
+.i1{
+width: 100%;
+background-position: center;
+}
+.h1{
+    position: absolute;
+    font-size: 300%;
+    text-align: center;
+    top: 1%; 
+       width: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+.a1{
+    position: absolute;
+
+    text-align: center;
+    top: 13%; 
+       width: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+.a2{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 22%;
+    width: 100%;
+        font-family: sans-serif;
+    
+}
+
+.img2{
+    position: relative;
+    padding-top: 2;
+}
+.h2{
+    position: absolute;
+    font-size: 300%;
+    text-align: center;
+    top: 5%; 
+       width: 100%;
+    color: black;
+    font-family: sans-serif;
+    
+}
+.h3{
+    position: absolute;
+    text-align: center;
+    top: 13%;
+    width: 100%;
+    color: black;
+    font-family: sans-serif;
+    
+}
+.h4{
+    position: absolute;
+    text-align: center;
+    top: 16%;
+    width: 100%;
+        font-family: sans-serif;
+    
+}
+.h5{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 24%;
+    width: 100%;
+        font-family: sans-serif;
+    
+}
+.img3{
+    position: relative;
+}
+.h6{
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    width: 100%;
+    color: black;
+    font-family: sans-serif;
+    font-size: 300%;
+    
+}
+.h7{
+    position: absolute;
+    text-align: center;
+    top: 13%;
+    width: 100%;
+    color: orangered;
+    font-family: sans-serif;
+ 
+}
+.h8{
+    position: absolute;
+    text-align: center;
+    top: 16%;
+    width: 100%;
+    color: black;
+    font-family: sans-serif;
+ 
+}
+.img56{
+    position: relative;
+}
+
+.i2{
+    padding: 0.3%;
+    width: 49%;
+    background-position: center;
+}
+.h9{
+    position: absolute;
+  font: 300%;
+    text-align: center;
+    top: 3%; 
+       width: 49%;
+    color: white;
+    font-family: sans-serif;
+       
+}
+.h10{
+    position: absolute;
+
+      text-align: center;
+      top: 9%; 
+         width: 49%;
+      color: white;
+      font-family: sans-serif;
+}
+.h11{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 16%;
+    width: 49%;
+        font-family: sans-serif;
+    
+
+}
+
+.h12{
+    position: absolute;
+font:500px ;
+    text-align: center;
+    top: 3%; 
+       width: 150%;
+    color: white;
+    font-family: sans-serif;
+}
+.h13{
+    
+    position: absolute;
+
+    text-align: center;
+    top: 8%; 
+       width: 150%;
+    color: red;
+    font-family: sans-serif;
+}
+.h14{
+    position: absolute;
+    
+        text-align: center;
+        top: 13%; 
+           width: 150%;
+        color: white;
+        font-family: sans-serif;
+    
+}
+.h15{
+    
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 150%;
+        font-family: sans-serif;
+    
+
+}
+
+.img78{
+    position: relative;
+}
+.h16{
+    position: absolute;
+font-size: 300%;
+    text-align: center;
+    top: 5%; 
+       width: 49%;
+    color: black;
+    font-family: sans-serif;
+
+}
+.h17{
+    position: absolute;
+
+    text-align: center;
+    top: 15%; 
+       width: 49%;
+    color: red;
+    font-family: sans-serif;
+}
+.h18{
+    position: absolute;
+
+    text-align: center;
+    top: 19%; 
+       width: 49%;
+    color: black;
+    font-family: sans-serif;
+
+}
+.h19{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 27%;
+    width: 49%;
+        font-family: sans-serif;
+   
+}
+
+.h20{
+    position: absolute;
+font-size: 300%;
+    text-align: center;
+    top: 5%; 
+       width: 150%;
+    color: black;
+    font-family: sans-serif;
+}
+.h21{
+    position: absolute;
+
+    text-align: center;
+    top: 16%; 
+       width: 150%;
+    color: black;
+    font-family: sans-serif;
+}
+.h22{
+    position: absolute;
+
+    text-align: center;
+    top: 20%; 
+       width: 150%;
+    color: black;
+    font-family: sans-serif;
+}
+.h23{
+
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 27%;
+    width: 150%;
+        font-family: sans-serif;
+    
+}
+
+.img910{
+    position: relative;
+}
+.h24{
+    position: absolute;
+    font-size: 300%;
+        text-align: center;
+        top: 5%; 
+           width: 49%;
+        color: black;
+        font-family: sans-serif;
+    
+}
+.h25{
+    position: absolute;
+ 
+        text-align: center;
+        top: 17%; 
+           width: 49%;
+        color: black;
+        font-family: sans-serif;
+    
+}
+.h26{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 23%;
+    width: 49%;
+        font-family: sans-serif;
+}
+.h27{    position: absolute;
+    font-size: 300%;
+        text-align: center;
+        top: 5%; 
+           width: 150%;
+        color: black;
+        font-family: sans-serif;}
+.h28{    position: absolute;
+
+        text-align: center;
+        top: 17%; 
+           width: 150%;
+        color: black;
+        font-family: sans-serif;}
+.h29{
+    position: absolute;
+
+    text-align: center;
+    top: 20%; 
+       width: 150%;
+    color: black;
+    font-family: sans-serif;
+}
+.h30{
+    color: blue;
+   
+    position: absolute;
+    text-align: center;
+    top: 29%;
+    width: 150%;
+        font-family: sans-serif;
+}
+.p{
+    position: relative;
+    background-color: lightgrey;
+
+}
+.pp{
+    background-color: lightgrey;
+    position: absolute;
+    color: black;
+
+}
